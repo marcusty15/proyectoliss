@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/proyectoliss/static/css/main.5fad1268.css",
-    "main.js": "/proyectoliss/static/js/main.fe709d12.js",
+    "main.js": "/proyectoliss/static/js/main.28f66245.js",
     "static/js/787.d505ef31.chunk.js": "/proyectoliss/static/js/787.d505ef31.chunk.js",
     "static/media/Banner Inscribete.png": "/proyectoliss/static/media/Banner Inscribete.4171db469a67fe1bd9df.png",
     "static/media/Fondo info.png": "/proyectoliss/static/media/Fondo info.ff5b48e20ec87bcdedcc.png",
@@ -14,11 +14,11 @@
     "static/media/Flores propositos.png": "/proyectoliss/static/media/Flores propositos.bf197f938ea80b4fc0b6.png",
     "index.html": "/proyectoliss/index.html",
     "main.5fad1268.css.map": "/proyectoliss/static/css/main.5fad1268.css.map",
-    "main.fe709d12.js.map": "/proyectoliss/static/js/main.fe709d12.js.map",
+    "main.28f66245.js.map": "/proyectoliss/static/js/main.28f66245.js.map",
     "787.d505ef31.chunk.js.map": "/proyectoliss/static/js/787.d505ef31.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5fad1268.css",
-    "static/js/main.fe709d12.js"
+    "static/js/main.28f66245.js"
   ]
 }
