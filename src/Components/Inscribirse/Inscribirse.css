@@ -1,0 +1,10 @@
+.bannerinscribirse {
+  background-image: url("../../img/Banner\ Inscribete.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 850px;
+}
+.boton{
+    margin-left: 1180px;
+    margin-top: 650px;
+}

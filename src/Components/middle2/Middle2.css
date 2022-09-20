@@ -1,0 +1,70 @@
+.md2 {
+  background-image: url("../../img/Recurso\ 50.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 700px;
+  margin-top: 320px;
+  width: 100%;
+}
+
+.cardView {
+  width: 100%;
+  gap: 1.5em;
+}
+
+.tx {
+  color: #537f6a;
+  font-family: "Poppins", sans-serif;
+  width: 40%;
+  font-size: 40px;
+  margin-left: 550px;
+  padding-top: 100px;
+  
+}
+.bgc{
+    background-color: #95bca7;
+    height: 170px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    
+   
+}
+.imglogo{
+    margin-top: 50px;
+    margin-left: 35px;
+    width: 200px;
+    height: 70px;
+}
+
+.imglogo1{
+    margin-top: 40px;
+    margin-left: 90px;
+    width: 90px;
+    height: 90px;
+}
+
+.cards{
+    border-radius: 20px;
+    border-top: 40px;
+ 
+}
+.cardtitulo{
+    color: #808080;
+    font-size: 19px;
+}
+.ct{
+    height: 60px;
+}
+
+.strella{
+    position: absolute;
+   left: 50%;
+   margin-top: 20px;
+    
+}
+.recurso19{
+    position: absolute;
+    margin-top: 220px;
+    left: 80%;
+
+}

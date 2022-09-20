@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+
+.mid1{
+    background-image: url('../../img/Fondo_banner1.png');
+    height: 460px;
+    background-color: #F1F7ED;
+}
+
+.texto{
+    margin-top: 220px;
+    color: #537F6A;
+    font-family: 'Poppins', sans-serif;
+    width: 40%;
+    font-size: 40px;
+}
+.image{
+    height: 155px;
+    width: 150px;
+    margin-left: 70px;
+}
+
+.p{
+    text-align: center;
+    color: #808080;
+}
+.h3{
+    color: #808080;
+}
+.card{
+    margin-left: 20px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.strt{
+    position: absolute;
+    width: 5%;
+    height:11%;
+    margin-top: 100px;
+}
+
+.flower{
+    position: absolute;
+    height: 150px;
+    margin-top: 350px;
+    left: 87%;
+}
