@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/proyectoliss/static/css/main.55afa8af.css",
+    "main.css": "/proyectoliss/static/css/main.6b990406.css",
     "main.js": "/proyectoliss/static/js/main.80e38577.js",
     "static/js/787.d505ef31.chunk.js": "/proyectoliss/static/js/787.d505ef31.chunk.js",
     "static/media/Banner Inscribete.png": "/proyectoliss/static/media/Banner Inscribete.4171db469a67fe1bd9df.png",
@@ -18,12 +18,12 @@
     "static/media/Recurso 2.png": "/proyectoliss/static/media/Recurso 2.c309a8457130aba5ef79.png",
     "static/media/Recurso 53.png": "/proyectoliss/static/media/Recurso 53.aa33975ea37d6f862714.png",
     "index.html": "/proyectoliss/index.html",
-    "main.55afa8af.css.map": "/proyectoliss/static/css/main.55afa8af.css.map",
+    "main.6b990406.css.map": "/proyectoliss/static/css/main.6b990406.css.map",
     "main.80e38577.js.map": "/proyectoliss/static/js/main.80e38577.js.map",
     "787.d505ef31.chunk.js.map": "/proyectoliss/static/js/787.d505ef31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.55afa8af.css",
+    "static/css/main.6b990406.css",
     "static/js/main.80e38577.js"
   ]
 }
