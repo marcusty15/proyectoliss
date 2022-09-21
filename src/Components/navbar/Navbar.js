@@ -14,9 +14,9 @@ const Navbar = () => {
   <div class="collapse navbar-collapse" id="navbarNav">
     
     <ul class="navbar-nav ms-auto sm-icons">
-        <li class="nav-item"><Link class="nav-link" to="#"><i class="bi bi-facebook"></i></Link></li>
-        <li class="nav-item"><Link class="nav-link" to="#"><i class="bi bi-instagram"></i></Link></li>
-        <li class="nav-item"><Link class="nav-link" to="#"><i class="bi bi-envelope"></i></Link></li>
+        <li class="nav-item"><Link class="nav-link" to="#"><i class="bi bi-facebook nbi" ></i></Link></li>
+        <li class="nav-item"><Link class="nav-link" to="#"><i class="bi bi-instagram nbi"></i></Link></li>
+        <li class="nav-item"><Link class="nav-link" to="#"><i class="bi bi-envelope nbi"></i></Link></li>
         
         
     </ul>

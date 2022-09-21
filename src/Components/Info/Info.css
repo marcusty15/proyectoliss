@@ -16,19 +16,44 @@
     text-align: center;
 
 }
-
-.txth3{
-    padding-left: 350px;
-    margin-top: 80px;
-    color: #649E5F;
-    font-family: monse;
-    font-size: 20px;
-    font-weight: 600;
-    text-align: center;
-    width: 31%;
+.imginf2{
+    visibility: hidden;
 }
 
 .imginfo{
     margin-left: 270px;
     margin-top: 50px;
 }
+
+@media only screen and (max-width: 400px) {
+        .info{
+            background-image: url('../../img/Fondo_banner1.png');
+            width: 100%;
+            height: 800px;
+
+        }
+        .txt{
+            
+           width: 90%;
+            padding-top: 0px;
+            padding-left: 50px;
+            font-size: 30px;
+            margin-top: -240px;
+            
+            
+        }
+        .imginfo{
+            width: 70%;
+            margin-left: 70px;
+        }
+        .imginf2{
+            margin-top: 70px;
+            margin-left: 83px;
+            width: 60%;
+           visibility: visible;
+        
+            
+        }
+
+    }
+  

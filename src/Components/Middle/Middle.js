@@ -17,7 +17,7 @@ const Middle = () => {
             ¿Cuál es el propósito de este encuentro de consciencia?
           </h2>
         </div>
-        <div className="d-flex justify-content-center container">
+        <div className="d-flex justify-content-center container flex-wrap">
           <div className="">
             <div className="card border-0" style={{ width: "270px" }}>
               <img src={img1} class="card-img-top image " alt="..." />

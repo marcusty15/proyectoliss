@@ -45,3 +45,21 @@
     margin-top: 350px;
     left: 87%;
 }
+
+@media only screen and (max-width: 400px) {
+    .mid1{
+        height: 1500px;
+    }
+    .texto{
+        width: 100%;
+    }
+    .strt{
+        width: 20%;
+    }
+    .card{
+        margin: 30px;
+    }
+    .flower{
+        display: none;
+    }
+  }

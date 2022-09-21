@@ -8,12 +8,12 @@ import img2 from '../../img/Youtube footer.png'
 const Footer = () => {
   return (
     <div className='footerbg'>
-        <div className='container d-flex '>
+        <div className='container d-flex todo'>
         <div>
             <h2 className='nametitle'>Lisset Albarracin</h2>
-            <h3 className='h3info'><i class="bi bi-geo-alt"></i>Madrid</h3>
-            <h3 className='h3info'><i class="bi bi-whatsapp"></i>+34 617 91 56 62</h3>
-            <h3 className='h3info'><i class="bi bi-envelope"></i>lissetalbarracin@gmail.com</h3>
+            <h3 className='h3info'><i class="bi bi-geo-alt mbi"></i>Madrid</h3>
+            <h3 className='h3info'><i class="bi bi-whatsapp mbi"></i>+34 617 91 56 62</h3>
+            <h3 className='h3info'><i class="bi bi-envelope mbi"></i>lissetalbarracin@gmail.com</h3>
 
         </div>
         <div className='about'>

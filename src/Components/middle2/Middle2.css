@@ -68,3 +68,18 @@
     left: 80%;
 
 }
+
+@media only screen and (max-width: 400px) {
+  .md2{
+    height: 2000px;
+  }
+  .tx{
+    padding-top: 240px;
+    width: 70%;
+    margin-left: 70px;
+  }
+  .strella{
+    margin-top: 130px;
+    left: 40%;
+  }
+  }
