@@ -49,7 +49,7 @@
     margin-left: 190px;
     
 }
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
     .footerbg{
         background-image: url('../../img/Fondo_banner1.png');
         height: 200px;

@@ -4,6 +4,7 @@
     background-repeat: no-repeat;
     height: 1200px;
     background-position-y: -145px;
+    background-position-x: center;
 }
 
 .txt{
@@ -25,7 +26,7 @@
     margin-top: 50px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 450px) {
         .info{
             background-image: url('../../img/Fondo_banner1.png');
             width: 100%;
