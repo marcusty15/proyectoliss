@@ -2,7 +2,7 @@
   background-image: url("../../img/Recurso\ 50.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 700px;
+  height: 900px;
   margin-top: 320px;
   width: 100%;
 }
@@ -17,8 +17,8 @@
   font-family: "Poppins", sans-serif;
   width: 40%;
   font-size: 40px;
-  margin-left: 550px;
-  padding-top: 100px;
+  margin-left: 750px;
+  padding-top: 200px;
   
 }
 .bgc{
@@ -58,8 +58,8 @@
 
 .strella{
     position: absolute;
-   left: 47%;
-   margin-top: 20px;
+   left: 48%;
+   margin-top: 70px;
     
 }
 .recurso19{

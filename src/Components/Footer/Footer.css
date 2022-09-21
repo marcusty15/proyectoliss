@@ -7,9 +7,9 @@
     background-image: url('../../img/Recurso\ 50.png');
     
     background-size: contain;
-    height: 700px;
+    height: 900px;
     background-repeat: no-repeat;
-    margin-top: -133px;
+    margin-top: -190px;
 }
 
 .mbi{
@@ -44,8 +44,8 @@
     margin-top: 10px;
 }
 .right{
-    margin-top: 180px;
-    padding-bottom: 40px;
+    margin-top: 350px;
+    padding-bottom: 60px;
     margin-left: 190px;
     
 }

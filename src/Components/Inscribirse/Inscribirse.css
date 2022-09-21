@@ -2,12 +2,12 @@
   background-image: url("../../img/Banner\ Inscribete.png");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 850px;
+  height: 1000px;
   background-position-x: center;
 }
 .boton{
-    margin-left: 1180px;
-    margin-top: 650px;
+    margin-left: 1250px;
+    margin-top: 800px;
 }
 .imgins{
   visibility: hidden;
