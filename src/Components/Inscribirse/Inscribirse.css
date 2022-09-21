@@ -29,7 +29,7 @@
   }
 
 }
-@media only screen and (max-width: 920px) {
+@media (min-width: 456px) and (max-width: 920px) {
   .boton{
     margin-top: -70px;
     

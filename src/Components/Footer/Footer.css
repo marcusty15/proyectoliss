@@ -89,7 +89,7 @@
   
   }
 
-  @media only screen and (max-width: 920px) {
+  @media (min-width: 456px) and (max-width: 920px) {
     .footerbg{
         background-image: url('../../img/Fondo_banner1.png');
         height: 200px;
