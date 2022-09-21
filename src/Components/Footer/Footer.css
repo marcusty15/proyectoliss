@@ -88,3 +88,44 @@
     }
   
   }
+
+  @media only screen and (max-width: 920px) {
+    .footerbg{
+        background-image: url('../../img/Fondo_banner1.png');
+        height: 200px;
+    }
+    .nametitle{
+        margin-top: 40px;
+        margin-left: 70px;
+
+    }
+    .mbi{
+        margin-left: 70px;
+        color:#537F6A;
+        margin-right: 5px;
+    }
+    .h3info{
+        margin-top: 30px;
+        font-size: 15px;
+        width: 100%;
+    }
+    .todo{
+        flex-direction: column;
+    }
+    .about{
+        margin-top: 20px;
+        margin-left: 70px;
+    }
+    .imgfooter{
+        margin-top: 20px;
+        margin-left: 54px;
+        width: 10%;
+        margin-bottom: 30px;
+    }
+    .right{
+        margin-top: 30px;
+        margin-left: 100px;
+        width: 60%;
+    }
+  
+  }

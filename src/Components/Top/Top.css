@@ -106,3 +106,31 @@
     }
    
   }
+
+  @media only screen and (max-width: 920px) {
+    .top{
+        height: 1000px;
+    }
+
+    .text1{
+        margin-top: 180px;
+    }
+    
+    .text1, .h2title,.inf1, .inf, .inf2, .h2,.img2{
+        margin-left: 20px;
+        
+    }
+    .star{
+        margin-top: 40px;
+        width: 13%;
+    }
+    .flor{
+        display: none;
+    }
+    .img{
+        display: none;
+    }
+   
+  }
+
+  

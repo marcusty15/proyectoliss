@@ -45,3 +45,18 @@
     }
   
   }
+
+  @media only screen and (max-width: 920px) {
+    .pbg{
+        height: 1300px;
+    }
+    .dstello{
+        left: 40%;
+    }
+    .mtpagos{
+        margin-left:250px ;
+        gap: 40px;
+        width: 40%;
+    }
+  
+  }
