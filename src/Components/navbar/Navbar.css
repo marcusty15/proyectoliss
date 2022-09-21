@@ -1,12 +1,21 @@
+@font-face {
+    font-family: sitka;
+    src: url('../Fonts/SitkaVF.ttf');
+}
 .bg{
     background-image: url('../../img/Header.png');
 }
 
 .navbar-brand{
     color: white;
+    font-family: sitka;
+    font-size: 50px;
+
 }
 
 .bi{
-    color: white;
+    color: white !important;
+    font-size: 30px;
+    
 
 }

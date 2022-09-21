@@ -8,7 +8,7 @@ import img3 from "../../img/Recurso 19.png"
 
 const Middle2 = () => {
   return (
-    <div className="md2 ">
+    <div className="md2   ">
         <img className="strella" src={img5} alt=""/>
       <h2 className="text-center tx ">
         ¿Qué incluye el espacio de consciencia?

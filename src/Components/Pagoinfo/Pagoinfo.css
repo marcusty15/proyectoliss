@@ -1,0 +1,32 @@
+@font-face {
+    font-family: sitka;
+    src: url('../Fonts/SitkaVF.ttf');
+}
+
+.pbg{
+    background-image: url('../../img/Recurso\ 49.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 850px;
+}
+
+.mtpagos{
+    margin-top: 80px;
+    gap: 10px;
+}
+
+.imgpago{
+    width: 85%;
+}
+
+.textpago{
+    padding-top: 280px;
+    font-family: sitka;
+    font-size: 70px;
+    color: #f1f7ed;
+}
+.dstello{
+    position: absolute;
+    left: 47%;
+    margin-top: 170px;
+}

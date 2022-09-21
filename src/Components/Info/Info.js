@@ -1,5 +1,6 @@
 import React from "react";
 import "./Info.css";
+import img from '../../img/Recurso 53.png'
 
 const Info = () => {
   return (
@@ -7,8 +8,7 @@ const Info = () => {
     <div className="info">
       <div>
         <h2 className="txt">¡Este espacio es para ti!</h2>
-        <h3 className="txth3">Valor de encuentro</h3>
-        <h3 className="txth3">Duaracion</h3>
+        <img className="imginfo" src={img} alt=""/>
       </div>
     </div>
     
