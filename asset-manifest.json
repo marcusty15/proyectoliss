@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/proyectoliss/static/css/main.7f054708.css",
-    "main.js": "/proyectoliss/static/js/main.80e38577.js",
+    "main.css": "/proyectoliss/static/css/main.c72fcd2f.css",
+    "main.js": "/proyectoliss/static/js/main.6002a702.js",
     "static/js/787.d505ef31.chunk.js": "/proyectoliss/static/js/787.d505ef31.chunk.js",
+    "static/media/Solo-web.png": "/proyectoliss/static/media/Solo-web.b72cfc254d14bba75e1a.png",
     "static/media/Banner Inscribete.png": "/proyectoliss/static/media/Banner Inscribete.4171db469a67fe1bd9df.png",
     "static/media/Fondo info.png": "/proyectoliss/static/media/Fondo info.ff5b48e20ec87bcdedcc.png",
     "static/media/SitkaVF.ttf": "/proyectoliss/static/media/SitkaVF.684e256659ef53c4e41b.ttf",
@@ -12,18 +13,19 @@
     "static/media/Poppins-Regular.ttf": "/proyectoliss/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
     "static/media/fondo_video.png": "/proyectoliss/static/media/fondo_video.3739e86662800e7f84db.png",
     "static/media/Recurso 49.png": "/proyectoliss/static/media/Recurso 49.ebccb8f75041c8d71a55.png",
+    "static/media/Textura fondo info.png": "/proyectoliss/static/media/Textura fondo info.44fc7ac762eb78443d21.png",
     "static/media/Recurso 19.png": "/proyectoliss/static/media/Recurso 19.5097c3c41f13f62de0a1.png",
     "static/media/info.png": "/proyectoliss/static/media/info.9d8155212a69a128a3dd.png",
     "static/media/Flores propositos.png": "/proyectoliss/static/media/Flores propositos.bf197f938ea80b4fc0b6.png",
     "static/media/Recurso 2.png": "/proyectoliss/static/media/Recurso 2.c309a8457130aba5ef79.png",
     "static/media/Recurso 53.png": "/proyectoliss/static/media/Recurso 53.aa33975ea37d6f862714.png",
     "index.html": "/proyectoliss/index.html",
-    "main.7f054708.css.map": "/proyectoliss/static/css/main.7f054708.css.map",
-    "main.80e38577.js.map": "/proyectoliss/static/js/main.80e38577.js.map",
+    "main.c72fcd2f.css.map": "/proyectoliss/static/css/main.c72fcd2f.css.map",
+    "main.6002a702.js.map": "/proyectoliss/static/js/main.6002a702.js.map",
     "787.d505ef31.chunk.js.map": "/proyectoliss/static/js/787.d505ef31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f054708.css",
-    "static/js/main.80e38577.js"
+    "static/css/main.c72fcd2f.css",
+    "static/js/main.6002a702.js"
   ]
 }
