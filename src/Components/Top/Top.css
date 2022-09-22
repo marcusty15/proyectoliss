@@ -57,8 +57,11 @@
 }
 .h2title{
     color: #537F6A;
-    font-size: 50px;
-    font-size: sitka;
+    font-size: 60px;
+    font-family: sitka;
+    font-weight: bold;
+    
+    
     
     
 }
