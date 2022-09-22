@@ -1,0 +1,66 @@
+.resbg{
+    background-image: url('../../img/Solo-web.png');
+    height: 960px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: center;
+    margin-bottom: -200px;
+    position: relative;
+    
+    
+}
+.textc{
+    visibility: hidden;
+}
+
+.formbody{
+    
+    background-color: white;
+    width: 60%;
+    height: 240px;
+    border-radius: 10px;
+    margin-left: 250px;
+    
+}
+.body{
+    padding-top: 600px;
+}
+.form-label, .fw-normal{
+    font-size: 15px;
+}
+.form-control{
+    font-size: 13px;
+}
+.checkboton{
+    width: 30%;
+    margin-left: 240px;
+}
+
+@media only screen and (max-width: 450px) {
+    .resbg{
+        background-image: url('../../img/Textura\ fondo\ info.png');
+        height: 700px;
+    }
+    .formbody{
+        height: 400px;
+        margin-left: 70px;
+        background-color: #fffff0;
+    }
+    .checkboton{
+        width: 30%;
+        margin-left: 20px;
+    }
+    .textc{
+        margin-top: 30px;
+        margin-left: 48px;
+        visibility: visible;
+        font-family: sitka;
+        font-size: 40px;
+        font-weight: bold;
+        color: #537F6A;
+        width: 80%;
+    }
+    .body{
+        padding-top: 50px;
+    }
+}

@@ -13,53 +13,53 @@ const Middle2 = () => {
       <h2 className="text-center tx ">
         ¿Qué incluye el espacio de consciencia?
       </h2>
-      <div class="container cardView d-flex flex-wrap justify-content-center">
-        <div class="">
-          <div class="card cards" style={{ width: "280px" }}>
+      <div className="container cardView d-flex flex-wrap justify-content-center">
+        <div className="">
+          <div className="card cards" style={{ width: "280px" }}>
             <div className="card-top bgc ">
               <img
                 src={img}
-                class="card-img-top imglogo"
+                className="card-img-top imglogo"
                 alt="..."
               />
             </div>
-            <div class="card-body">
-              <h5 class="card-title text-center mb-3 cardtitulo">
+            <div className="card-body">
+              <h5 className="card-title text-center mb-3 cardtitulo">
                 Acceso al encuentro en vivo
               </h5>
-              <p class="card-text p mb-3 ct">
+              <p className="card-text p mb-3 ct">
                 Transmitido por la App Zoom, en un tiempo aproximado de 2 h 30
                 minutos.
               </p>
             </div>
           </div>
         </div>
-        <div class="">
-          <div class="card cards" style={{ width: "280px" }}>
+        <div className="">
+          <div className="card cards" style={{ width: "280px" }}>
             <div className="card-top bgc">
-              <img src={img1} class="card-img-top imglogo" alt="..." />
+              <img src={img1} className="card-img-top imglogo" alt="..." />
             </div>
-            <div class="card-body">
-              <h5 class="card-title text-center mb-3 cardtitulo">
+            <div className="card-body">
+              <h5 className="card-title text-center mb-3 cardtitulo">
                 Grabación del encuentro
               </h5>
-              <p class="card-text p mb-3 ct">
+              <p className="card-text p mb-3 ct">
                 Se enviará a tu correo inscrito luego de finalizar el encuentro.
 
               </p>
             </div>
           </div>
         </div>
-        <div class="">
-          <div class="card cards" style={{ width: "280px" }}>
+        <div className="">
+          <div className="card cards" style={{ width: "280px" }}>
             <div className="card-top bgc">
-              <img src={img2} class="card-img-top imglogo1" alt="..." />
+              <img src={img2} className="card-img-top imglogo1" alt="..." />
             </div>
-            <div class="card-body">
-              <h5 class="card-title text-center mb-3 cardtitulo">
+            <div className="card-body">
+              <h5 className="card-title text-center mb-3 cardtitulo">
                 Grabación del encuentro
               </h5>
-              <p class="card-text p mb-3 ct">
+              <p className="card-text p mb-3 ct">
                 Se enviará a tu correo inscrito luego de finalizar el encuentro.
                 
               </p>

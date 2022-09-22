@@ -9,7 +9,7 @@ const Inscribirse = () => {
     <div className='bannerinscribirse'>
         <div>
             <img className='imgins' src={img1} alt=''/>
-            <Link to='/'><img src={img} className='boton' alt=''/></Link>
+            <Link to='/registro'><img src={img} className='boton' alt=''/></Link>
         </div>
     </div>
   )

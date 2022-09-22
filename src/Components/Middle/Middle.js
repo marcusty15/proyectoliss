@@ -20,10 +20,10 @@ const Middle = () => {
         <div className="d-flex justify-content-center container flex-wrap">
           <div className="">
             <div className="card border-0" style={{ width: "270px" }}>
-              <img src={img1} class="card-img-top image " alt="..." />
-              <div class="card-body">
+              <img src={img1} className="card-img-top image " alt="..." />
+              <div className="card-body">
                 <h3 className="h3 text-center">Conocer</h3>
-                <p class="card-text p">
+                <p className="card-text p">
                   Cómo surge el apego en las diferentes relaciones (pareja,
                   familia, trabajo, dinero)
                 </p>
@@ -31,11 +31,11 @@ const Middle = () => {
             </div>
           </div>
           <div>
-            <div class="card border-0" style={{ width: "270px" }}>
-              <img src={img2} class="card-img-top image" alt="..." />
-              <div class="card-body">
+            <div className="card border-0" style={{ width: "270px" }}>
+              <img src={img2} className="card-img-top image" alt="..." />
+              <div className="card-body">
                 <h3 className="h3 text-center">Auto Indagar</h3>
-                <p class="card-text p">
+                <p className="card-text p">
                   En tus creencias, esas que sostienen las relaciones basadas en
                   el apego.
                 </p>
@@ -43,20 +43,20 @@ const Middle = () => {
             </div>
           </div>
           <div>
-            <div class="card border-0" style={{ width: "270px" }}>
-              <img src={img3} class="card-img-top image" alt="..." />
-              <div class="card-body">
+            <div className="card border-0" style={{ width: "270px" }}>
+              <img src={img3} className="card-img-top image" alt="..." />
+              <div className="card-body">
                 <h3 className="h3 text-center">Descubrir</h3>
-                <p class="card-text p">La forma de deshacer el apego.</p>
+                <p className="card-text p">La forma de deshacer el apego.</p>
               </div>
             </div>
           </div>
           <div>
-            <div class="card border-0" style={{ width: "270px" }}>
-              <img src={img4} class="card-img-top image" alt="..." />
-              <div class="card-body">
+            <div className="card border-0" style={{ width: "270px" }}>
+              <img src={img4} className="card-img-top image" alt="..." />
+              <div className="card-body">
                 <h3 className="h3 text-center">Experimentar</h3>
-                <p class="card-text p">
+                <p className="card-text p">
                   La libertad que nos regala el desapego.
                 </p>
               </div>
