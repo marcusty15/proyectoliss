@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap');
+@font-face {
+    font-family: sitka;
+    src: url('../Fonts/SitkaVF.ttf');
+}
 
 .mid1{
     background-image: url('../../img/Fondo_banner1.png');
@@ -9,9 +13,11 @@
 .texto{
     margin-top: 220px;
     color: #537F6A;
-    font-family: 'Poppins', sans-serif;
+    font-family: sitka;
+    font-weight: bold;
     width: 40%;
-    font-size: 40px;
+    font-size: 60px;
+    line-height: 1em;
 }
 .image{
     height: 155px;

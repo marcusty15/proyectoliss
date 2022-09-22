@@ -14,11 +14,13 @@
 
 .tx {
   color: #537f6a;
-  font-family: "Poppins", sans-serif;
+  font-family: sitka;
+    font-weight: bold;
   width: 40%;
-  font-size: 40px;
+  font-size: 60px;
   margin-left: 580px;
   padding-top: 200px;
+  line-height: 1em;
   
 }
 .bgc{

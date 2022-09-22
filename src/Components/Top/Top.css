@@ -60,6 +60,7 @@
     font-size: 60px;
     font-family: sitka;
     font-weight: bold;
+    line-height: 1em;
     
     
     
@@ -68,7 +69,8 @@
 .h2{
     color: #537F6A;
     font-size: 30px;
-    font-size: popins;
+    font-family: sitka;
+    font-weight: bold;
 }
 
 
