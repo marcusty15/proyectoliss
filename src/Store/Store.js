@@ -22,8 +22,8 @@ const UserProvider = ({ children }) => {
 
   console.log(data)
   const crearDatos = async () => {
-    const response = await axios.post(``, data);
-    console.log(response);
+    const response = await axios.post(`https://www.back.lissetalbarracin.com/email`, data);
+    console.log(response.data);
     alert("Registro realizado exitosamente, revisa tu correo");
   };
 
