@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.7597cd41.css",
-    "main.js": "/static/js/main.829e1ebc.js",
+    "main.css": "/static/css/main.7249d568.css",
+    "main.js": "/static/js/main.4f29eae8.js",
     "static/js/787.d505ef31.chunk.js": "/static/js/787.d505ef31.chunk.js",
     "static/media/Solo-web.png": "/static/media/Solo-web.b72cfc254d14bba75e1a.png",
     "static/media/Banner Inscribete.png": "/static/media/Banner Inscribete.4171db469a67fe1bd9df.png",
@@ -20,12 +20,12 @@
     "static/media/Recurso 2.png": "/static/media/Recurso 2.c309a8457130aba5ef79.png",
     "static/media/Recurso 53.png": "/static/media/Recurso 53.aa33975ea37d6f862714.png",
     "index.html": "/index.html",
-    "main.7597cd41.css.map": "/static/css/main.7597cd41.css.map",
-    "main.829e1ebc.js.map": "/static/js/main.829e1ebc.js.map",
+    "main.7249d568.css.map": "/static/css/main.7249d568.css.map",
+    "main.4f29eae8.js.map": "/static/js/main.4f29eae8.js.map",
     "787.d505ef31.chunk.js.map": "/static/js/787.d505ef31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7597cd41.css",
-    "static/js/main.829e1ebc.js"
+    "static/css/main.7249d568.css",
+    "static/js/main.4f29eae8.js"
   ]
 }
