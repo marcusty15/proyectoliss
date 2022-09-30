@@ -1,31 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.7249d568.css",
-    "main.js": "/static/js/main.439cb595.js",
+    "main.css": "/static/css/main.8b877e82.css",
+    "main.js": "/static/js/main.b5b3225e.js",
     "static/js/787.d505ef31.chunk.js": "/static/js/787.d505ef31.chunk.js",
-    "static/media/Solo-web.png": "/static/media/Solo-web.b72cfc254d14bba75e1a.png",
+    "static/media/Recurso 59.png": "/static/media/Recurso 59.74a832e19ab4c3cad460.png",
+    "static/media/Recurso 64.png": "/static/media/Recurso 64.84d4d73d7b5862a9f9bf.png",
     "static/media/Banner Inscribete.png": "/static/media/Banner Inscribete.4171db469a67fe1bd9df.png",
-    "static/media/Fondo info.png": "/static/media/Fondo info.ff5b48e20ec87bcdedcc.png",
     "static/media/SitkaVF.ttf": "/static/media/SitkaVF.684e256659ef53c4e41b.ttf",
     "static/media/foto banner.png": "/static/media/foto banner.239a2f7b1777190686da.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
     "static/media/Sin-título-1.png": "/static/media/Sin-título-1.ac285e83e8664d47aae0.png",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
+    "static/media/Recurso 70.png": "/static/media/Recurso 70.cf924bfbafa5e0f8744b.png",
     "static/media/fondo_video.png": "/static/media/fondo_video.3739e86662800e7f84db.png",
     "static/media/Recurso 49.png": "/static/media/Recurso 49.ebccb8f75041c8d71a55.png",
+    "static/media/Recurso 62.png": "/static/media/Recurso 62.ebccb8f75041c8d71a55.png",
     "static/media/Textura fondo info.png": "/static/media/Textura fondo info.44fc7ac762eb78443d21.png",
+    "static/media/Recurso 75.png": "/static/media/Recurso 75.647aecc809497f9cfacd.png",
+    "static/media/Recurso 63.png": "/static/media/Recurso 63.e656525e283bf4e1873b.png",
     "static/media/Recurso 19.png": "/static/media/Recurso 19.5097c3c41f13f62de0a1.png",
-    "static/media/info.png": "/static/media/info.9d8155212a69a128a3dd.png",
     "static/media/Flores propositos.png": "/static/media/Flores propositos.bf197f938ea80b4fc0b6.png",
     "static/media/Recurso 2.png": "/static/media/Recurso 2.c309a8457130aba5ef79.png",
     "static/media/Recurso 53.png": "/static/media/Recurso 53.aa33975ea37d6f862714.png",
     "index.html": "/index.html",
-    "main.7249d568.css.map": "/static/css/main.7249d568.css.map",
-    "main.439cb595.js.map": "/static/js/main.439cb595.js.map",
+    "main.8b877e82.css.map": "/static/css/main.8b877e82.css.map",
+    "main.b5b3225e.js.map": "/static/js/main.b5b3225e.js.map",
     "787.d505ef31.chunk.js.map": "/static/js/787.d505ef31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7249d568.css",
-    "static/js/main.439cb595.js"
+    "static/css/main.8b877e82.css",
+    "static/js/main.b5b3225e.js"
   ]
 }
