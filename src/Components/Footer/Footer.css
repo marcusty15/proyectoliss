@@ -51,46 +51,14 @@
     margin-left: 190px;
     
 }
-@media only screen and (max-width: 450px) {
-    .footerbg{
-        background-image: url('../../img/Fondo_banner1.png');
-        height: 300px;
-    }
-    .nametitle{
-        margin-top: 40px;
-        margin-left: 30px;
 
-    }
-    .mbi{
-        margin-left: 50px;
-        color:#537F6A;
-        margin-right: 5px;
-    }
-    .h3info{
-        margin-top: 30px;
-        font-size: 15px;
-        width: 100%;
-    }
-    .todo{
-        flex-direction: column;
-
-    }
-    .about{
-        margin-top: 20px;
-        margin-left: 50px;
-    }
-    .imgfooter{
-        margin-left: 34px;
-        width: 10%;
-        margin-bottom: 30px;
-    }
-    .right{
-        margin-top: 30px;
-        margin-left: 100px;
-        width: 60%;
-    }
+@media only screen and (max-width: 1360px) {
+   .footerbg{
+    background-size: cover;
+   }
   
   }
+
 
   @media (min-width: 456px) and (max-width: 920px) {
     .footerbg{
@@ -132,6 +100,47 @@
     }
     .todo{
         flex: none;
+    }
+  
+  }
+
+  @media only screen and (max-width: 450px) {
+    .footerbg{
+        background-image: url('../../img/Fondo_banner1.png');
+        height: 300px;
+    }
+    .nametitle{
+        margin-top: 40px;
+        margin-left: 30px;
+
+    }
+    .mbi{
+        margin-left: 50px;
+        color:#537F6A;
+        margin-right: 5px;
+    }
+    .h3info{
+        margin-top: 30px;
+        font-size: 15px;
+        width: 100%;
+    }
+    .todo{
+        flex-direction: column;
+
+    }
+    .about{
+        margin-top: 20px;
+        margin-left: 50px;
+    }
+    .imgfooter{
+        margin-left: 34px;
+        width: 10%;
+        margin-bottom: 30px;
+    }
+    .right{
+        margin-top: 30px;
+        margin-left: 100px;
+        width: 60%;
     }
   
   }

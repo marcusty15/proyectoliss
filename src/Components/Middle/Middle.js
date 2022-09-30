@@ -19,7 +19,7 @@ const Middle = () => {
         </div>
         <div className="d-flex justify-content-center container flex-wrap">
           <div className="">
-            <div className="card border-0" style={{ width: "270px" }}>
+            <div className="card border-0" style={{ width: "230px" }}>
               <img src={img1} className="card-img-top image3 " alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Conocer</h3>
@@ -31,7 +31,7 @@ const Middle = () => {
             </div>
           </div>
           <div>
-            <div className="card border-0" style={{ width: "270px" }}>
+            <div className="card border-0" style={{ width: "230px" }}>
               <img src={img2} className="card-img-top image4" alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Auto Indagar</h3>
@@ -43,7 +43,7 @@ const Middle = () => {
             </div>
           </div>
           <div>
-            <div className="card border-0" style={{ width: "270px" }}>
+            <div className="card border-0" style={{ width: "230px" }}>
               <img src={img3} className="card-img-top image" alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Descubrir</h3>
@@ -52,7 +52,7 @@ const Middle = () => {
             </div>
           </div>
           <div>
-            <div className="card border-0" style={{ width: "270px" }}>
+            <div className="card border-0" style={{ width: "230px" }}>
               <img src={img4} className="card-img-top image2" alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Experimentar</h3>

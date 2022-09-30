@@ -71,24 +71,16 @@
     width: 14%;
 
 }
-
-@media only screen and (max-width: 450px) {
-  .md2{
-    height: 2130px ;
-  }
+@media only screen and (max-width: 1360px) {
   .tx{
-    padding-top: 240px;
-    width: 70%;
-    margin-left: 60px ;
+    margin: 0px;
+    margin-left: 430px;
   }
-  .strella{
-    margin-top: 130px;
-    left: 40%;
-  }
-  .recurso19{
-    display: none;
-  }
-  }
+  
+
+}
+
+
 
   @media (min-width: 456px) and (max-width: 920px) {
     .md2{
@@ -107,3 +99,21 @@
       display: none;
     }
     }
+
+    @media only screen and (max-width: 450px) {
+      .md2{
+        height: 2130px ;
+      }
+      .tx{
+        padding-top: 240px;
+        width: 70%;
+        margin-left: 60px ;
+      }
+      .strella{
+        margin-top: 130px;
+        left: 40%;
+      }
+      .recurso19{
+        display: none;
+      }
+      }

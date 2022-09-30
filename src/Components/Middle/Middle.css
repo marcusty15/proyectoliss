@@ -70,23 +70,17 @@
     box-sizing: border-box;
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 1360px) {
     .mid1{
-        height: 1600px !important;
-    }
-    .texto{
-        width: 100%;
-    }
-    .strt{
-        width: 20%;
-    }
-    .card{
-        margin: 30px;
+        height: 600px;
     }
     .flower{
-        display: none;
+        margin-top: 350px;
     }
+  
   }
+
+
 
   @media only screen and (max-width: 920px) {
     .mid1{
@@ -105,5 +99,26 @@
     }
     .flower{
         display: none;
+    }
+  }
+
+  @media only screen and (max-width: 450px) {
+    .mid1{
+        height: 1600px !important;
+    }
+    .texto{
+        width: 100%;
+    }
+    .strt{
+        width: 20%;
+    }
+    .card{
+        margin: 30px;
+    }
+    .flower{
+        display: none;
+    }
+    .image3, .image2, .image, .image4{
+        margin:auto
     }
   }
