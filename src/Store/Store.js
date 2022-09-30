@@ -33,7 +33,7 @@ const UserProvider = ({ children }) => {
   
   const data = userinfo;
 
-  console.log(data)
+ 
   const crearDatos = async () => {
     const response = await axios.post(`https://www.back.lissetalbarracin.com/email`, data);
     console.log(response.data);
