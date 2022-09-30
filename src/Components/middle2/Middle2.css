@@ -66,14 +66,15 @@
 }
 .recurso19{
     position: absolute;
-    margin-top: 220px;
-    left: 80%;
+    margin-top: 350px;
+    left: 82%;
+    width: 14%;
 
 }
 
 @media only screen and (max-width: 450px) {
   .md2{
-    height: 2000px ;
+    height: 2130px ;
   }
   .tx{
     padding-top: 240px;

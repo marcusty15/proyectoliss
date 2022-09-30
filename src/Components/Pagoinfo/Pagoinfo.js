@@ -10,19 +10,19 @@ const Pagoinfo = () => {
   return (
     <div className="pbg">
     <img className="dstello" src={img5} alt="" />
-        <h2 className="text-center textpago">Métodos de pago</h2>
+        <h2 className="text-center textpago1">Métodos de pago</h2>
       <div className="d-flex justify-content-center container flex-wrap mtpagos ">
         <div>
-          <img className="imgpago" src={img} alt="" />
+          <img className="imgpago1" src={img} alt="" />
         </div>
         <div>
-          <img className="imgpago" src={img3} alt="" />
+          <img className="imgpago1" src={img3} alt="" />
         </div>
         <div>
-          <img className="imgpago" src={img2} alt="" />
+          <img className="imgpago1" src={img2} alt="" />
         </div>
         <div>
-          <img className="imgpago" src={img4} alt="" />
+          <img className="imgpago1" src={img4} alt="" />
         </div>
       </div>
     </div>

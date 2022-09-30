@@ -13,6 +13,9 @@
     font-size: 50px;
 
 }
+.navbar-brand:hover{
+    color: white;
+}
 
 .nbi{
     color: white !important;

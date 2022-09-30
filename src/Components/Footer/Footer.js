@@ -7,8 +7,8 @@ import img2 from '../../img/Youtube footer.png'
 
 const Footer = () => {
   return (
-    <div className='footerbg'>
-        <div className='container d-flex todo'>
+    <div className='footerbg' id='footer'>
+        <div className='container  todo '>
         <div>
             <h2 className='nametitle'>Lisset Albarracin</h2>
             <h3 className='h3info'><i className="bi bi-geo-alt mbi"></i>Madrid</h3>

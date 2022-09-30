@@ -1,54 +1,58 @@
 .resbg{
-    background-image: url('../../img/Solo-web.png');
-    height: 960px;
+    background-image: url('../../img/Recurso\ 59.png');
+    height: 1660px;
     background-size: cover;
     background-repeat: no-repeat;
     background-position-x: center;
-    margin-bottom: -200px;
+    margin-bottom: -185px;
     position: relative;
-    
-    
 }
+
 .textc{
     visibility: hidden;
 }
+
 
 .formbody{
     
     background-color: white;
     width: 60%;
-    height: 240px;
+    height: 660px;
     border-radius: 10px;
     margin-left: 250px;
     
 }
 .body{
-    padding-top: 600px;
+    padding-top: 700px;
 }
 .form-label, .fw-normal{
-    font-size: 15px;
+    font-size: 14px;
 }
 .form-control{
-    font-size: 13px;
+    font-size: 12px;
 }
 .checkboton{
     width: 30%;
     margin-left: 240px;
 }
+.textoinfo{
+    font-family: popins;
+    color:#537F6A;
+}
 
 @media only screen and (max-width: 450px) {
     .resbg{
         background-image: url('../../img/Textura\ fondo\ info.png');
-        height: 700px;
+        height: 1200px;
     }
     .formbody{
         height: 400px;
-        margin-left: 70px;
-        background-color: #fffff0;
+        margin-left: 40px;
+      
     }
     .checkboton{
-        width: 30%;
-        margin-left: 20px;
+        width: 70%;
+        margin-left: 60px;
     }
     .textc{
         margin-top: 30px;
@@ -61,6 +65,18 @@
         width: 80%;
     }
     .body{
-        padding-top: 50px;
+        padding-top: 300px;
+    }
+    .form-control{
+        width: 200px;
+    }
+    .textoinfo{
+        
+        box-sizing: content-box;
+        padding: 0;
+        max-width: 200px;
+        width: 300px;
+       
+        
     }
 }

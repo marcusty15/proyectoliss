@@ -1,0 +1,19 @@
+.textinf{
+    font-size: 20px;
+    font-family: popins;
+    color:#537F6A;
+}
+
+
+@media only screen and (max-width: 450px) {
+  .textinf{
+    font-size: 14px;
+    width: 200px;
+  }
+  .paypalbody{
+    width: 100px;
+   
+    padding: 0;
+    margin: 0;
+  }
+}

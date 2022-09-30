@@ -1,31 +1,39 @@
 .info{
-    background-image: url('../../img/Fondo\ info.png');
+    background-image: url('../../img/Recurso\ 64.png');
     background-size: cover;
     background-repeat: no-repeat;
-    height: 1600px;
+    height: 1400px;
     background-position-y: -175px;
     background-position-x: center;
+    
+    
+    
+    
 }
 
 .txt{
     padding-top: 400px;
-    padding-left: 200px;
+    
     color: #537F6A;
     font-family: sitka;
     font-weight: bold;
     font-size: 80px;
-    width: 40%;
+    width: 30%;
     text-align: center;
+    margin-left: 125px;
     line-height: 1em;
+    visibility: hidden;
 
 }
 .imginf2{
     visibility: hidden;
+    
 }
 
 .imginfo{
-    margin-left: 270px;
+    margin-left: 200px;
     margin-top: 0px;
+    visibility: hidden;
 }
 
 @media only screen and (max-width: 450px) {
@@ -38,16 +46,19 @@
         .txt{
             
            width: 90%;
-            padding-top: 0px;
-            padding-left: 50px !important;
+            padding: 0px;
+            margin-left: 30px;
+            margin-bottom: 20px;
             font-size: 30px;
             margin-top: -240px;
+            visibility: visible;
             
             
         }
         .imginfo{
             width: 70%;
             margin-left: 70px !important;
+            visibility: visible;
         }
         .imginf2{
             margin-top: 70px;

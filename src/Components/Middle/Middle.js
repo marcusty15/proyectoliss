@@ -20,7 +20,7 @@ const Middle = () => {
         <div className="d-flex justify-content-center container flex-wrap">
           <div className="">
             <div className="card border-0" style={{ width: "270px" }}>
-              <img src={img1} className="card-img-top image " alt="..." />
+              <img src={img1} className="card-img-top image3 " alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Conocer</h3>
                 <p className="card-text p">
@@ -32,7 +32,7 @@ const Middle = () => {
           </div>
           <div>
             <div className="card border-0" style={{ width: "270px" }}>
-              <img src={img2} className="card-img-top image" alt="..." />
+              <img src={img2} className="card-img-top image4" alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Auto Indagar</h3>
                 <p className="card-text p">
@@ -53,7 +53,7 @@ const Middle = () => {
           </div>
           <div>
             <div className="card border-0" style={{ width: "270px" }}>
-              <img src={img4} className="card-img-top image" alt="..." />
+              <img src={img4} className="card-img-top image2" alt="..." />
               <div className="card-body">
                 <h3 className="h3 text-center">Experimentar</h3>
                 <p className="card-text p">

@@ -4,47 +4,64 @@
 }
 
 .pbg{
-    background-image: url('../../img/Recurso\ 49.png');
+    background-image: url('../../img/Recurso\ 62.png');
     background-repeat: no-repeat;
     background-size: cover;
-    height: 950px;
+    height: 890px;
 }
 
 .mtpagos{
-    margin-top: 80px;
+    margin-top: 40px;
     gap: 10px;
 }
 
-.imgpago1{
+.imgpago{
     width: 85%;
+    visibility: hidden;
 }
 
-.textpago1{
-    padding-top: 260px;
+.textpago{
+    padding-top: 250px;
     font-family: sitka;
     font-size: 70px;
     color: #f1f7ed;
+    visibility: hidden;
 }
 .dstello{
     position: absolute;
     left: 47%;
     margin-top: 170px;
     display: none;
+    
+}
+.imgtotal{
+    width: 60%;
+    margin-top: -250px;
+    margin-left: 370px;
 }
 
 @media only screen and (max-width: 450px) {
     .pbg{
-        height: 1300px;
+        height: 1650px;
     }
     .dstello{
         left: 40%;
+    }
+    .textpago{
+        visibility: visible;
     }
     .mtpagos{
         margin-left:70px ;
         gap: 40px;
         width: 70%;
     }
-  
+    .imgtotal{
+        visibility: hidden;
+    }
+    .imgpago{
+        visibility: visible;
+        
+    }
   }
 
   @media (min-width: 456px) and (max-width: 920px) {
@@ -58,6 +75,9 @@
         margin-left:250px ;
         gap: 40px;
         width: 40%;
+    }
+    .imgtotal{
+        margin-left: 0px;
     }
   
   }

@@ -14,9 +14,9 @@ const Navbar = () => {
   <div className="collapse navbar-collapse" id="navbarNav">
     
     <ul className="navbar-nav ms-auto sm-icons">
-        <li className="nav-item"><Link className="nav-link" to="#"><i className="bi bi-facebook nbi" ></i></Link></li>
-        <li className="nav-item"><Link className="nav-link" to="#"><i className="bi bi-instagram nbi"></i></Link></li>
-        <li className="nav-item"><Link className="nav-link" to="#"><i className="bi bi-envelope nbi"></i></Link></li>
+        <li className="nav-item"><a className="nav-link" href="https://www.facebook.com/profile.php?id=100066714128088"><i className="bi bi-facebook nbi" ></i></a></li>
+        <li className="nav-item"><a className="nav-link" href="https://www.instagram.com/lisset_albarracin/"><i className="bi bi-instagram nbi"></i></a></li>
+        <li className="nav-item"><a className="nav-link" href="#footer"><i className="bi bi-envelope nbi"></i></a></li>
         
         
     </ul>

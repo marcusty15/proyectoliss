@@ -1,7 +1,4 @@
-@font-face {
-    font-family: sitka;
-    src: url('../Fonts/SitkaVF.ttf');
-}
+
 
 .footerbg{
     background-image: url('../../img/Recurso\ 50.png');
@@ -25,7 +22,10 @@
     font-family: sitka;
     font-weight: bold;
     font-size: 60px;
-    font-weight: 500;
+    
+}
+.todo{
+    display: flex;
 }
 
 .h3info{
@@ -41,12 +41,12 @@
 }
 
 .imgfooter{
-    width: 22%;
+    width: 12%;
     margin-right: 25px;
     margin-top: 10px;
 }
 .right{
-    margin-top: 170px;
+    margin-top: 190px;
     padding-bottom: 20px;
     margin-left: 190px;
     
@@ -54,7 +54,7 @@
 @media only screen and (max-width: 450px) {
     .footerbg{
         background-image: url('../../img/Fondo_banner1.png');
-        height: 200px;
+        height: 300px;
     }
     .nametitle{
         margin-top: 40px;
@@ -73,6 +73,7 @@
     }
     .todo{
         flex-direction: column;
+
     }
     .about{
         margin-top: 20px;
@@ -94,7 +95,7 @@
   @media (min-width: 456px) and (max-width: 920px) {
     .footerbg{
         background-image: url('../../img/Fondo_banner1.png');
-        height: 200px;
+        height: 600px;
     }
     .nametitle{
         margin-top: 40px;
@@ -128,6 +129,9 @@
         margin-top: 30px;
         margin-left: 100px;
         width: 60%;
+    }
+    .todo{
+        flex: none;
     }
   
   }
