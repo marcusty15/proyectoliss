@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ff29b3e.css",
-    "main.js": "/static/js/main.841bb249.js",
+    "main.css": "/static/css/main.a678be36.css",
+    "main.js": "/static/js/main.2ccb148a.js",
     "static/js/787.d505ef31.chunk.js": "/static/js/787.d505ef31.chunk.js",
-    "static/media/Recurso 78.png": "/static/media/Recurso 78.3a61dc7c4fcaa25ad7c0.png",
+    "static/media/Recurso 80.png": "/static/media/Recurso 80.a163a274a131a29ced81.png",
     "static/media/Recurso 64.png": "/static/media/Recurso 64.84d4d73d7b5862a9f9bf.png",
-    "static/media/Banner Inscribete.png": "/static/media/Banner Inscribete.4171db469a67fe1bd9df.png",
+    "static/media/Recurso 79.png": "/static/media/Recurso 79.c230a2dbf57a800a8b11.png",
     "static/media/SitkaVF.ttf": "/static/media/SitkaVF.684e256659ef53c4e41b.ttf",
     "static/media/foto banner.png": "/static/media/foto banner.239a2f7b1777190686da.png",
     "static/media/Montserrat-VariableFont_wght.ttf": "/static/media/Montserrat-VariableFont_wght.3068cdb43142f5625baf.ttf",
@@ -23,12 +23,12 @@
     "static/media/Recurso 2.png": "/static/media/Recurso 2.c309a8457130aba5ef79.png",
     "static/media/Recurso 53.png": "/static/media/Recurso 53.aa33975ea37d6f862714.png",
     "index.html": "/index.html",
-    "main.8ff29b3e.css.map": "/static/css/main.8ff29b3e.css.map",
-    "main.841bb249.js.map": "/static/js/main.841bb249.js.map",
+    "main.a678be36.css.map": "/static/css/main.a678be36.css.map",
+    "main.2ccb148a.js.map": "/static/js/main.2ccb148a.js.map",
     "787.d505ef31.chunk.js.map": "/static/js/787.d505ef31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ff29b3e.css",
-    "static/js/main.841bb249.js"
+    "static/css/main.a678be36.css",
+    "static/js/main.2ccb148a.js"
   ]
 }
