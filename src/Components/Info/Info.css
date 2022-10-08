@@ -35,6 +35,14 @@
     margin-top: 0px;
     visibility: hidden;
 }
+
+@media only screen and (max-width: 1440px) {
+    .info{
+        height: 1000px;
+    }
+    
+    }
+
 @media only screen and (max-width: 1360px) {
     .info{
         height: 970px;

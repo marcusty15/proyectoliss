@@ -71,13 +71,19 @@
     width: 14%;
 
 }
+
+@media only screen and (max-width: 1440px) {
+  .tx{
+    margin-left: 420px;
+  }
+  
+  }
 @media only screen and (max-width: 1360px) {
   .tx{
     margin: 0px;
     margin-left: 430px;
   }
   
-
 }
 
 

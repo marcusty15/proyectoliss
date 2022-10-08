@@ -5,3 +5,48 @@
     height: 1009px;
 
 }
+.video{
+    height: 500px;
+    width: 800px;
+    margin-top: 350px;
+    margin-left: 550px;
+}
+
+@media only screen and (max-width: 1440px) {
+  .video{
+    margin-left: 330px;
+  }
+  
+  }
+
+
+@media only screen and (max-width: 1360px) {
+  .video{
+    margin-left: 280px;
+  }
+  
+  }
+
+
+  @media (min-width: 456px) and (max-width: 920px) {
+   .video{
+    margin: 0;
+    margin-top: 300px;
+    margin-left: 180px;
+    width: 600px;
+    height: 450px;
+   }
+  }
+
+  @media only screen and (max-width: 450px) {
+    .vid{
+        height: 500px;
+    }
+   .video{
+    width: auto;
+    height: auto;
+    margin: 0;
+    margin-top: 200px;
+    margin-left: 45px;
+   }
+  }

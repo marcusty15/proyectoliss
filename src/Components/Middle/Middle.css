@@ -70,6 +70,16 @@
     box-sizing: border-box;
 }
 
+@media only screen and (max-width: 1440px) {
+    .mid1{
+        height: 550px;
+    }
+    .flower{
+        margin-top: 310px;
+    }
+    
+    }
+
 @media only screen and (max-width: 1360px) {
     .mid1{
         height: 600px;
