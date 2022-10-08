@@ -22,22 +22,25 @@
 .image{
     height: 129px;
     width: 157px;
-    margin-left: 70px;
+    margin-left: 50px;
 }
 .image2{
     height: 146px;
     width: 117px;
-    margin-left: 75px;
+    margin-left: 55px;
+    margin-top: -20px;
 }
 .image3{
     height: 147px;
     width: 131px;
-    margin-left: 75px;
+    margin-left: 55px;
+    margin-top: -20px;
 }
 .image4{
     height: 133px;
     width: 133px;
-    margin-left: 75px;
+    margin-left: 55px;
+    margin-top: -5px;
 }
 
 

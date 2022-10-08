@@ -13,7 +13,7 @@ const Footer = () => {
             <h2 className='nametitle'>Lisset Albarracin</h2>
             <h3 className='h3info'><i className="bi bi-geo-alt mbi"></i>Madrid</h3>
             <h3 className='h3info'><i className="bi bi-whatsapp mbi"></i>+34 617 91 56 62</h3>
-            <h3 className='h3info'><i className="bi bi-envelope mbi"></i>lissetalbarracin@gmail.com</h3>
+            <h3 className='h3info email'><i className="bi bi-envelope mbi em"></i>lissetalbarracin@gmail.com</h3>
 
         </div>
         <div className='about'>
