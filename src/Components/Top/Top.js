@@ -22,7 +22,7 @@ const Top = () => {
           <p className="mt-4 inf1">
             Este espacio ha sido creado con la intención de que te permitas
             abrir la mente y el corazón, es un espacio de no juicio, que tiene
-            como propósito descubrir otra manera de vivir y de relacionar-nos,
+            como propósito descubrir otra manera de vivir y de relacionarnos,
             porque si tú al igual que yo has vivido relaciones desde el apego
             sabes que se sufre y a esta vida no vinimos a sufrir.
           </p>
